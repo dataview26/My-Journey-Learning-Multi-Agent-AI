@@ -52,3 +52,31 @@ cd My-Journey-Learning-Multi-Agent-AI
 python -m venv .venv
 source .venv/bin/activate      # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt -r requirements-dev.txt
+
+Run your first experiment:
+$env:PYTHONPATH="src"
+python -m journey_agents.run_experiment --name "hello-multi-agent"
+
+---
+
+## 💬 Contributing
+
+Suggestions and pull requests are welcome!  
+Open an issue or PR to share insights, improvements, or experiment ideas.
+
+---
+
+## 📜 License
+
+MIT © 2025 Mr V Jones  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+### 🧠 “Learning publicly is the fastest way to grow.”
+
+Follow this repository for new experiments and lessons as I explore the emerging field of **Agentic AI**.
+
+
+
+
