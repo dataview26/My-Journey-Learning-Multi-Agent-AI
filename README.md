@@ -69,7 +69,7 @@ Open an issue or PR to share insights, improvements, or experiment ideas.
 ## 📜 License
 
 MIT © 2025 Mr V Jones  
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
