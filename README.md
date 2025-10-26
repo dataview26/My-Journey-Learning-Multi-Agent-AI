@@ -9,8 +9,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/blob/main/LICENSE)
 [![Focus](https://img.shields.io/badge/focus-Agentic%20AI-orange)](#-objectives)
 
-[![FCC: Scientific Computing with Python](https://img.shields.io/badge/FCC-Scientific%20Computing%20with%20Python-0a0)](https://www.freecodecamp.org/certification/jones26/scientific-computing-with-python-v7))
-[![FCC: Machine Learning with Python](https://img.shields.io/badge/FCC-Machine%20Learning%20with%20Python-0a0)](https://www.freecodecamp.org/certification/jones26/machine-learning-with-python-v7))
+[![FCC: Scientific Computing with Python](https://img.shields.io/badge/FCC-Scientific%20Computing%20with%20Python-0a0)](https://www.freecodecamp.org/certification/jones26/scientific-computing-with-python-v7)
+[![FCC: Machine Learning with Python](https://img.shields.io/badge/FCC-Machine%20Learning%20with%20Python-0a0)](https://www.freecodecamp.org/certification/jones26/machine-learning-with-python-v7)
 
 
 
