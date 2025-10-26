@@ -72,5 +72,5 @@ def run_hello_experiment(seed: int = 42) -> List[Message]:
     return pad
 
 def run_scored_experiment(seed: int = 42) -> List[Message]:
-    """Same as hello, but we explicitly use the scoring critic (returned in transcript)."""
+    """Alias for the hello experiment that includes scoring."""
     return run_hello_experiment(seed=seed)
