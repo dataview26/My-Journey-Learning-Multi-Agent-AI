@@ -3,11 +3,14 @@
 > A public research log of my ongoing experiments building and understanding multi-agent systems — how independent AI agents can collaborate, reason, and solve tasks together.
 
 [![CI](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml)
-[![Development](https://img.shields.io/badge/status-in--development-yellow)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI#-about)
+[![Development](https://img.shields.io/badge/status-in--development-yellow)](#-about)
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/releases)
-[![Python](https://img.shields.io/badge/python-3.11%2B-brightgreen)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/python-3.11%2B-brightgreen)](#-quick-start)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/blob/main/LICENSE)
-[![Focus](https://img.shields.io/badge/focus-Agentic%20AI-orange)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI#-objectives)
+[![Focus](https://img.shields.io/badge/focus-Agentic%20AI-orange)](#-objectives)
+
+[![FCC: Scientific Computing with Python](https://img.shields.io/badge/FCC-Scientific%20Computing%20with%20Python-0a0)](YOUR_SCIENTIFIC_COMPUTING_CERT_URL)
+[![FCC: Machine Learning with Python](https://img.shields.io/badge/FCC-Machine%20Learning%20with%20Python-0a0)](YOUR_ML_WITH_PYTHON_CERT_URL)
 
 
 
