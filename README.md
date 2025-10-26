@@ -2,7 +2,7 @@
 
 > A public research log of my ongoing experiments building and understanding multi-agent systems — how independent AI agents can collaborate, reason, and solve tasks together.
 
-[![Development](https://img.shields.io/badge/status-in--development-yellow)
+![Development](https://img.shields.io/badge/status-in--development-yellow)
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
