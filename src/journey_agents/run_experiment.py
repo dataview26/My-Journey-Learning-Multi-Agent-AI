@@ -1,5 +1,5 @@
 import argparse
-from .agents import run_hello_experiment
+from .agents import run_hello_experiment, run_scored_experiment
 
 def main():
     parser = argparse.ArgumentParser()
@@ -9,11 +9,14 @@ def main():
 
     if args.name == "hello-multi-agent":
         messages = run_hello_experiment(seed=args.seed)
-        print("=== SCRATCHPAD TRANSCRIPT ===")
-        for m in messages:
-            print(f"[{m.sender}] {m.content}")
+    elif args.name == "critic-scoring":
+        messages = run_scored_experiment(seed=args.seed)
     else:
         raise SystemExit(f"Unknown experiment: {args.name}")
+
+    print("=== SCRATCHPAD TRANSCRIPT ===")
+    for m in messages:
+        print(f"[{m.sender}] {m.content}")
 
 if __name__ == "__main__":
     main()
