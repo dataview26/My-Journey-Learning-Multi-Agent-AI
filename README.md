@@ -75,7 +75,6 @@ Open an issue or PR to share insights, improvements, or experiment ideas.
 MIT © 2025 Mr V Jones  
 See the LICENSE file in this repository for details.
 
-
 ---
 
 ### 🧠 “Learning publicly is the fastest way to grow.”
