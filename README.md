@@ -16,7 +16,6 @@
 ---
 
 
-
 ## 🧩 About
 
 I’m a **Research Engineer in Agentic AI**, documenting my hands-on journey learning how intelligent agents communicate, coordinate, and reason collectively.
