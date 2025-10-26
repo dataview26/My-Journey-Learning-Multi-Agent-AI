@@ -8,6 +8,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Focus](https://img.shields.io/badge/focus-Agentic%20AI-orange)
 ![CI](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml)
+
 
 
 ---
