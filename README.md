@@ -2,12 +2,18 @@
 
 > A public research log of my ongoing experiments building and understanding multi-agent systems — how independent AI agents can collaborate, reason, and solve tasks together.
 
-![Development](https://img.shields.io/badge/status-in--development-yellow)
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
-![Python](https://img.shields.io/badge/python-3.11+-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Focus](https://img.shields.io/badge/focus-Agentic%20AI-orange)
 [![CI](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/actions/workflows/ci.yml)
+
+[![Development](https://img.shields.io/badge/status-in--development-yellow)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI#-about)
+
+[![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/releases)
+
+[![Python](https://img.shields.io/badge/python-3.11%2B-brightgreen)](https://www.python.org/downloads/)
+
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/blob/main/LICENSE)
+
+[![Focus](https://img.shields.io/badge/focus-Agentic%20AI-orange)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI#-objectives)
+
 
 
 
