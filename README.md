@@ -73,7 +73,8 @@ Open an issue or PR to share insights, improvements, or experiment ideas.
 ## 📜 License
 
 MIT © 2025 Mr V Jones  
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/dataview26/My-Journey-Learning-Multi-Agent-AI/blob/main/LICENSE)
+See the LICENSE file in this repository for details.
+
 
 ---
 
