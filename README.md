@@ -55,8 +55,9 @@ The goal is simple:
 |------|-------------|--------------|--------|-----|
 | 2025-10-26 | Hello Multi-Agent | Planner → Worker basic toy experiment | ✅ Completed | [View Log](experiments/2025-10-26-hello-multi-agent.md) |
 | 2025-10-27 | Critic Agent Evaluation | Added Critic to assess Worker output | ✅ Completed | [View Log](experiments/2025-10-27-critic-agent-evaluation.md) |
-| 2025-10-29 | Critic Scoring | Introduced scoring 0–3 for Critic feedback | ✅ Completed | [View Log](experiments/2025-10-29-critic-scoring.md) |
-| 2025-10-30 | Critic Reflection + JSON Logging | Richer reflection + persisted results | ✅ Completed | [View Log](experiments/2025-10-30-critic-reflection-logging.md) |
+| 2025-10-27 | Critic Scoring | Introduced scoring 0–3 for Critic feedback | ✅ Completed | [View Log](experiments/2025-10-27-critic-scoring.md) |
+| 2025-10-27 | Critic Reflection + JSON Logging | Richer reflection + persisted results | ✅ Completed | [View Log](experiments/2025-10-27-critic-reflection-logging.md) |
+
 
 
 ---
