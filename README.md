@@ -49,6 +49,24 @@ The goal is simple:
 
 ---
 
+## 🧪 Experiment Tracker
+
+| Date | Experiment | Description | Status | Log |
+|------|-------------|--------------|--------|-----|
+| 2025-10-26 | Hello Multi-Agent | Planner → Worker basic toy experiment | ✅ Completed | [View Log](experiments/2025-10-26-hello-multi-agent.md) |
+| 2025-10-27 | Critic Agent Evaluation | Added Critic to assess Worker output | ✅ Completed | [View Log](experiments/2025-10-27-critic-agent-evaluation.md) |
+| 2025-10-29 | Critic Scoring | Introduced scoring 0–3 for Critic feedback | ✅ Completed | [View Log](experiments/2025-10-29-critic-scoring.md) |
+| 2025-10-30 | Critic Reflection + JSON Logging | Richer reflection + persisted results | ✅ Completed | [View Log](experiments/2025-10-30-critic-reflection-logging.md) |
+
+---
+
+## 📊 Critic Scores Over Time
+![Critic Scores Over Time](artifacts/critic_scores.png)
+
+---
+
+
+
 ## ⚙️ Quick Start
 
 ```bash
