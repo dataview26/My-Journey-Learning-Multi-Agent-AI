@@ -58,6 +58,8 @@ The goal is simple:
 | 2025-10-27 | Critic Scoring | Introduced scoring 0–3 for Critic feedback | ✅ Completed | [View Log](experiments/2025-10-27-critic-scoring.md) |
 | 2025-10-27 | Critic Reflection + JSON Logging | Richer reflection + persisted results | ✅ Completed | [View Log](experiments/2025-10-27-critic-reflection-logging.md) |
 
+
+
 ---
 
 ## 📊 Critic Scores Over Time
